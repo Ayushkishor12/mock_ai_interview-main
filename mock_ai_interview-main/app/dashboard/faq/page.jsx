@@ -5,7 +5,7 @@ const Page = () => {
     <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 to-blue-100">
       <div className="rounded-lg border-2 border-gray-900 bg-white shadow-lg w-full max-w-md dark:bg-gray-950">
         <div className="bg-blue-900 p-6 flex flex-col items-center gap-4 rounded-t-lg">
-          <h3 className="text-2xl font-bold text-white">Abhik Samanta</h3>
+          <h3 className="text-2xl font-bold text-white">Ayush Kishor</h3>
           <p className="text-blue-200">MERN Stack Developer</p>
           <p className="text-blue-200">Next.js Developer</p>
         </div>
@@ -17,7 +17,7 @@ const Page = () => {
           </div>
           <div className="flex justify-center gap-4">
             <a
-              href="https://github.com/Abhik004"
+              href="https://github.com/Ayushkishor12"
               className="inline-flex items-center justify-center rounded-md border border-gray-800 bg-blue-900 px-4 py-2 text-sm font-medium text-white shadow-sm transition-colors hover:bg-blue-800 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-300 disabled:pointer-events-none disabled:opacity-50"
             >
               <svg
@@ -38,7 +38,7 @@ const Page = () => {
               Github
             </a>
             <a
-              href="https://www.linkedin.com/in/abhik-samanta2004/"
+              href="https://www.linkedin.com/in/ayush-kishor-b279a6287/"
               className="inline-flex items-center justify-center rounded-md border border-blue-800 bg-blue-900 px-4 py-2 text-sm font-medium text-white shadow-sm transition-colors hover:bg-blue-800 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-gray-300 disabled:pointer-events-none disabled:opacity-50"
             >
               Linkedin
